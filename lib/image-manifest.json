@@ -1,0 +1,175 @@
+{
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.404842923b",
+  "stamp": "404842923b"
+ },
+ "/images/post-1.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-1.38a34e1689",
+  "stamp": "38a34e1689"
+ },
+ "/images/post-10.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-10.60540fb5d9",
+  "stamp": "60540fb5d9"
+ },
+ "/images/post-2.jpg": {
+  "w": 1080,
+  "h": 1437,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-2.e4836ca44a",
+  "stamp": "e4836ca44a"
+ },
+ "/images/post-3.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-3.aec5578986",
+  "stamp": "aec5578986"
+ },
+ "/images/post-4.jpg": {
+  "w": 1080,
+  "h": 1334,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-4.3926fd66c5",
+  "stamp": "3926fd66c5"
+ },
+ "/images/post-5.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-5.66d50c0183",
+  "stamp": "66d50c0183"
+ },
+ "/images/post-6.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-6.74505db899",
+  "stamp": "74505db899"
+ },
+ "/images/post-7.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-7.3562dfcedf",
+  "stamp": "3562dfcedf"
+ },
+ "/images/post-8.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-8.0b2ec38919",
+  "stamp": "0b2ec38919"
+ },
+ "/images/post-9.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-9.5caca13d2a",
+  "stamp": "5caca13d2a"
+ }
+}
